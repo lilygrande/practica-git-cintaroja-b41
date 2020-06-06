@@ -1,5 +1,7 @@
 # practica-git-cintaroja-b41
 
+- Soy Lili y me gusta jugar footbal Americano y andar en bicicleta.
+
 - Soy Erick, ayer escribí este artículo: 
     https://bit.ly/Selva_Maya
     
