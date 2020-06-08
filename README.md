@@ -17,3 +17,4 @@ y no entiendo por que no paras si esto no te va servir para algo, mejor ponte a 
 - Soy Mali y ayer hice el test de personalidades y soy 'debater'
     https://www.16personalities.com/entp-personality
  
+este es mi pull request
